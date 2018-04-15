@@ -53,3 +53,9 @@
        - python-openstackclient
        - openstack-selinux
      when: ansible_os_family == "RedHat"
+
+
+
+
+
+
